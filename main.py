@@ -5,3 +5,5 @@ second_name = "Mel"
 print(f"Hello {second_name}, my name is {first_name}! I am currently {age} years old.")
 # 
 str(age)
+
+student = "jordan"
